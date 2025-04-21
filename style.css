@@ -124,6 +124,11 @@ body {
   margin-bottom: 8px;
 }
 
+#dateList a {
+  color: #0083ff;
+  text-decoration: underline;
+}
+
 /* Classe pour cacher la liste de dates */
 .hidden {
   display: none;
