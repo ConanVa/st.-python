@@ -118,6 +118,10 @@ body {
   display: none; /* Masqué par défaut */
 }
 
+#dateList a {
+  color: #ff6347; / Couleur de texte surligné (par exemple, orange) /
+  text-decoration: underline; / Souligner les liens */
+}
 #dateList li {
   font-size: 1.2rem;
   margin-bottom: 8px;
